@@ -1,0 +1,9 @@
+{
+    "Hostname" : "192.168.1.197:3306",
+    "Username" : "root",
+    "Password" : "54365c55a4fa9f6d",
+    "MaxConnNum": 2000,
+    "MainDatabase" : "soosoogoo_main"
+}
+
+
